@@ -1,8 +1,8 @@
 # Bruno Arrais Claudino
 
 ## Olá pessoal 👋
-Sou apaixonado por tecnologia e resolver programação.
-Formado em contabilidade e estudante de programação 💻
+<br/>Sou apaixonado por tecnologia e resolver programação.
+<br/>Formado em contabilidade e estudante de programação 💻
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos relacionados a contabilidade ou Tributário
  <br/> :computer: &nbsp; Minha stack: Ainda desenvolvendo minhas habilidades em programação
