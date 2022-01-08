@@ -10,3 +10,7 @@
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrunoClaudino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-arrais-claudino-51061816a/)](https://www.linkedin.com/in/bruno-arrais-claudino-51061816a/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-bruarrais%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruarrais@gmail.com)](mailto:bruarrais@gmail.com)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
