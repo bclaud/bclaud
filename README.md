@@ -4,7 +4,7 @@
 
 ## I'm an Accountant and Developer
 
-- 🔭 I just finished a Java portifolio project: [Sistema reservas hospedagem](https://github.com/bclaud/reservas-hospedagem)
+- 🔭 I just finished a Java portfolio project: [Sistema reservas hospedagem](https://github.com/bclaud/reservas-hospedagem)
 - 🌱 I’m currently going deeper into Java with Spring and learning Elixir
 - 👯 I'm looking for a entry-level opportunite as a Backend developer
 - 🥅 2022 Goals: Master a programming language and develop an open-source API
