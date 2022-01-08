@@ -1,15 +1,16 @@
-### Hi there, I'm Bruno 👋 
+### Olá, eu sou Bruno 👋 
 
-[README - Português](./README-PTBR.md)
+[README - English](./README.md)
 
-## I'm an Accoutant and Developer
+## Sou Contador e Desenvolvedor
 
-- 🔭 I just finished a Java portifolio project: [Sistema reservas hospedagem](https://github.com/bclaud/reservas-hospedagem)
-- 🌱 I’m currently going deeper into Java with Spring and learning Elixir
-- 👯 I'm looking for a entry-level opportunite as a Backend developer
-- 🥅 2022 Goals: Master a programming language and develop an open-source API
+- 🔭 Acabei de finalizar um projeto Java para portifólio: [Sistema reservas hospedagem](https://github.com/bclaud/reservas-hospedagem)
+- 🌱 Atualmente estou me aprofundando em Java com Spring e aprendendo Elixir
+- 👯 Busco uma oportunidade entry-level como desenvolvedor backend
+- 🥅 Objetivos de 2022: Profiência em alguma linguagem de programação e desenvolver uma API open-source
 
-### Connect with me:
+
+### Conecte-se comigo:
 
 [<img align="left" alt="bclaud.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.bclaud.com.br/)
 [<img align="left" alt="bruno claudino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bruno-arrais-claudino-51061816a/)
@@ -18,7 +19,7 @@
 
 <br />
 
-### Languages and Tools:
+### Linguagens e ferramentas:
 
 <img align="left" alt="Java" width="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Java-icon.png" />
 
@@ -43,8 +44,6 @@
 
 ---
 
-## Recent Blog posts
+## Blog posts recentes
 
 - [Pós instalação Fedora-34](https://www.bclaud.com.br/posts/post-install-fedora34/)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
