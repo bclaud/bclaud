@@ -2,7 +2,7 @@
 
 [README - Português](./README-PTBR.md)
 
-## I'm an Accoutant and Developer
+## I'm an Accountant and Developer
 
 - 🔭 I just finished a Java portifolio project: [Sistema reservas hospedagem](https://github.com/bclaud/reservas-hospedagem)
 - 🌱 I’m currently going deeper into Java with Spring and learning Elixir
