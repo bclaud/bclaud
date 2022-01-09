@@ -46,4 +46,5 @@
 
 ## Blog posts recentes
 
+- [Basics of hexagonal architecture](https://www.bclaud.com.br/posts/basics-hexagonal-architecture/)
 - [Pós instalação Fedora-34](https://www.bclaud.com.br/posts/post-install-fedora34/)
