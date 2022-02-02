@@ -14,7 +14,6 @@
 
 [<img align="left" alt="bclaud.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.bclaud.com.br/)
 [<img align="left" alt="bruno claudino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bruno-arrais-claudino-51061816a/)
-</br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-bruarrais%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruarrais@gmail.com)](mailto:bruarrais@gmail.com)
 
 <br />
@@ -44,7 +43,7 @@
 
 ---
 
-## Blog posts recentes
+## 📕 Blog posts recentes
 
-- [Basics of hexagonal architecture + Project](https://www.bclaud.com.br/posts/basics-hexagonal-architecture/)
-- [Pós instalação Fedora-34](https://www.bclaud.com.br/posts/post-install-fedora34/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
