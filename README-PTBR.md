@@ -45,6 +45,7 @@
 ### 📕 Blog posts recentes
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvimento da API para listar Pessoas Expostas Politicamente](https://www.bclaud.com.br/posts/pep-api-introducao/)
 - [Basics of hexagonal architecture + Project](https://www.bclaud.com.br/posts/basics-hexagonal-architecture/)
 - [Pós instalação Fedora-34](https://www.bclaud.com.br/posts/post-install-fedora34/)
 <!-- BLOG-POST-LIST:END -->
