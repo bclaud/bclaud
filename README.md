@@ -44,6 +44,7 @@
 ### 📕 Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parser na fonte de dados em CSV para inserir dados no banco](https://www.bclaud.com.br/posts/parser_import_pep/)
 - [Download e descompactando a fonte de dados e Endpoint](https://www.bclaud.com.br/posts/download-e-descompactar-pep/)
 - [Desenvolvimento da API para listar Pessoas Expostas Politicamente](https://www.bclaud.com.br/posts/pep-api-introducao/)
 - [Basics of hexagonal architecture + Project](https://www.bclaud.com.br/posts/basics-hexagonal-architecture/)
