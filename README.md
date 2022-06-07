@@ -4,7 +4,7 @@
 
 ## I'm an Accountant and Developer
 
-- 🌞️ Working to make distributed solar energy affordable for Brazillians
+- 🌞️ Working to make distributed solar electricity generation affordable for Brazilians
 - 🌱 I’m currently learning everthing I can about Elixir 
 - 🥅 2022 Goals: Master a programming language and develop an open-source API
 
