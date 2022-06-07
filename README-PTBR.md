@@ -1,12 +1,11 @@
-### Olá, eu sou Bruno 👋 
+### Olá, eu sou Bruno
 
 [README - English](./README.md)
 
 ## Sou Contador e Desenvolvedor
 
-- 🔭 Acabei de finalizar um projeto Java para portifólio: [Sistema reservas hospedagem](https://github.com/bclaud/reservas-hospedagem)
+- 🌞️ Tornando a geração de energia distribuída acessível aos Brasileiros através do Sol
 - 🌱 Atualmente estou me aprofundando em Java com Spring e aprendendo Elixir
-- 👯 Busco uma oportunidade entry-level como desenvolvedor backend
 - 🥅 Objetivos de 2022: Profiência em alguma linguagem de programação e desenvolver uma API open-source
 
 
@@ -18,18 +17,15 @@
 
 <br />
 
-### Linguagens e ferramentas:
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Elixir" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" />
 
 <img align="left" alt="Java" width="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Java-icon.png" />
 
 <img align="left" alt="Spring" width="26px" src="https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico" />
-
-<img align="left" alt="Elixir" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
