@@ -5,7 +5,7 @@
 ## Sou Contador e Desenvolvedor
 
 - 🌞️ Tornando a geração de energia distribuída acessível aos Brasileiros através do Sol
-- 🌱 Atualmente estou me aprofundando em Java com Spring e aprendendo Elixir
+- 🌱 Atualmente evoluindo com Elixir
 - 🥅 Objetivos de 2022: Profiência em alguma linguagem de programação e desenvolver uma API open-source
 
 
