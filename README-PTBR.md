@@ -41,9 +41,9 @@
 ### 📕 Blog posts recentes
 
 <!-- BLOG-POST-LIST:START -->
+- [QMK through Nix](https://www.bclaud.com.br/posts/qmk-flash-cantor/)
 - [API - Application Program Interface](https://www.bclaud.com.br/posts/api/)
 - [HTTP](https://www.bclaud.com.br/posts/http/)
 - [Buscando as informações no banco de dados e Endpoint para consulta](https://www.bclaud.com.br/posts/buscando-informacoes-pep-api/)
 - [Parser na fonte de dados em CSV para inserir dados no banco](https://www.bclaud.com.br/posts/parser_import_pep/)
-- [Download e descompactando a fonte de dados e Endpoint](https://www.bclaud.com.br/posts/download-e-descompactar-pep/)
 <!-- BLOG-POST-LIST:END -->
